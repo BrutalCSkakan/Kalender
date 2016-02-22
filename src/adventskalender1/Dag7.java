@@ -1,4 +1,4 @@
-﻿package adventskalender1;
+package adventskalender1;
 
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
@@ -10,7 +10,7 @@ class Dag7 {
 
 
     public static void Lucka7 () {
-<<<<<<< HEAD
+
         String timeStamp = new SimpleDateFormat("HH:mm:ss").format(Calendar.getInstance().getTime());
 
 
@@ -20,6 +20,6 @@ class Dag7 {
 
     }
 
-    }
+
 
 }
